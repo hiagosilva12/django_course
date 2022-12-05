@@ -7,7 +7,7 @@ certifi
 cffi
 chardet
 cliapp
-click=
+click
 cmdtest
 colorama
 command-not-found
@@ -65,7 +65,7 @@ python-apt
 python-dateutil
 python-debian
 pytz
-pyxd
+pyxdg
 PyYAML
 reportlab
 SecretStorage
@@ -74,7 +74,7 @@ sqlparse
 systemd-python
 ttystatus
 ubuntu-advantage-tools
-ubuntu-drivers-common0
+ubuntu-drivers-common
 ufw
 unattended-upgrades
 urllib3
