@@ -16,7 +16,6 @@ dnspython==2.2.1
 duplicity
 fasteners==0.14.1
 future==0.18.2
-gyp
 httplib2==0.20.2
 idna==3.3
 importlib-metadata==4.6.4
