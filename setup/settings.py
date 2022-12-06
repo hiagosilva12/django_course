@@ -129,3 +129,12 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
 ]
+
+ALLOWED_HOSTS = [
+    '0.0.0.0',
+    'djangocourse-production.up.railway.app',
+    'djangocourse-production.up.railway.app/',
+    'https://djangocourse-production.up.railway.app/',
+    'http://djangocourse-production.up.railway.app/',
+    '127.0.0.1'
+]
