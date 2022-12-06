@@ -130,9 +130,4 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
 ]
 
-ALLOWED_HOSTS = [
-    'djangocourse-production.up.railway.app',
-    'djangocourse-production.up.railway.app/',
-    'https://djangocourse-production.up.railway.app/',
-    'http://djangocourse-production.up.railway.app/',
-]
+ALLOWED_HOSTS = ['*']
